@@ -151,7 +151,7 @@
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.Install);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "DriverInstall";
             this.ResumeLayout(false);
             this.PerformLayout();
 
